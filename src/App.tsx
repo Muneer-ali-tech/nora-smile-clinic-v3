@@ -374,7 +374,7 @@ export default function App() {
 
         <div className="footer-links">
           <a
-            href="https://www.linkedin.com/in/abdulrahman"
+            href="https://www.linkedin.com/in/eng-muneer-ali-347690269/"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
@@ -383,7 +383,7 @@ export default function App() {
             LinkedIn
           </a>
           <a
-            href="https://wa.me/966500000000"
+            href="https://api.whatsapp.com/send/?phone=967771491931&text&type=phone_number&app_absent=0"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
